@@ -97,7 +97,7 @@
 
                         @foreach ($subjects as $subject)
                             @php
-                                $articles = App\models\Article::select('title', 'slug')
+                                $articles = App\Models\Article::select('title', 'slug')
                                     ->where('subject_id', $subject->id)
                                     ->where('published', 1)
                                     ->where('featured', 1)
@@ -138,7 +138,7 @@
 
                         @foreach ($subjects as $subject)
                             @php
-                                $articles = App\models\Article::select('title', 'slug')
+                                $articles = App\Models\Article::select('title', 'slug')
                                     ->where('subject_id', $subject->id)
                                     ->where('published', 1)
                                     ->where('featured', 1)
@@ -176,7 +176,7 @@
 
                         @foreach ($subjects as $subject)
                             @php
-                                $articles = App\models\Article::select('title', 'slug')
+                                $articles = App\Models\Article::select('title', 'slug')
                                     ->where('subject_id', $subject->id)
                                     ->where('published', 1)
                                     ->where('featured', 1)
@@ -214,7 +214,7 @@
 
                         @foreach ($subjects as $subject)
                             @php
-                                $articles = App\models\Article::select('title', 'slug')
+                                $articles = App\Models\Article::select('title', 'slug')
                                     ->where('subject_id', $subject->id)
                                     ->where('published', 1)
                                     ->where('featured', 1)
@@ -252,7 +252,7 @@
 
                         @foreach ($subjects as $subject)
                             @php
-                                $articles = App\models\Article::select('title', 'slug')
+                                $articles = App\Models\Article::select('title', 'slug')
                                     ->where('subject_id', $subject->id)
                                     ->where('published', 1)
                                     ->where('featured', 1)

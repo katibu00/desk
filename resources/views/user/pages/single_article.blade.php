@@ -74,7 +74,7 @@
                             <h4>Related Articles</h4>
                             <ul class="list-unstyled nav-sidebar coding_nav">
                                 @php
-                                    $related_articles = App\models\Article::select('title', 'slug')
+                                    $related_articles = App\Models\Article::select('title', 'slug')
                                         ->where('subject_id', $article->subject_id)
                                         ->where('published', 1)
                                         ->where('id', '!=', $article->id)
