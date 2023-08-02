@@ -20,7 +20,7 @@
         <img class="p_absolute bl_right" src="/theme/img/home_one/b_leaf.svg" alt="">
         <div class="container">
             <div class="doc_banner_text">
-                <h2 class="wow fadeInUp" data-wow-delay="0.3s">Welcome to IntelS Help Cente</h2>
+                <h2 class="wow fadeInUp" data-wow-delay="0.3s">Welcome to IntelS Help Center</h2>
                 <p class="wow fadeInUp" data-wow-delay="0.5s">Explore helpful how-tos and guides for efficient school
                     management</p>
                     <style>
@@ -290,29 +290,26 @@
         <div class="container">
             <div class="section_title text-center">
                 <h2 class="h_title wow fadeInUp">Do you have any Question?</h2>
-                <p class="wow fadeInUp" data-wow-delay="0.2s">Loaded with awesome features like Documentation,
-                    Knowledgebase, Forum & more!</p>
+                <p class="wow fadeInUp" data-wow-delay="0.2s">Review and read our Frequently Asked Questions.</p>
             </div>
             <ul class="nav nav-tabs doc_tag" id="myTabthree" role="tablist">
                 <li class="nav-item wow fadeInLeft">
                     <a class="nav-link active" id="ter-tab" data-toggle="tab" href="#ter" role="tab"
-                        aria-controls="or" aria-selected="true">Terminal</a>
+                        aria-controls="or" aria-selected="true">Administrator</a>
                 </li>
                 <li class="nav-item wow fadeInLeft" data-wow-delay="0.1s">
                     <a class="nav-link" id="docOne-tab" data-toggle="tab" href="#docOne" role="tab"
-                        aria-controls="doc" aria-selected="false">Docs</a>
+                        aria-controls="doc" aria-selected="false">Teacher</a>
                 </li>
                 <li class="nav-item wow fadeInLeft" data-wow-delay="0.2s">
                     <a class="nav-link" id="forumOne-tab" data-toggle="tab" href="#forumOne" role="tab"
-                        aria-controls="forum" aria-selected="false">Forum</a>
+                        aria-controls="forum" aria-selected="false">Parent</a>
                 </li>
-                <li class="nav-item wow fadeInLeft" data-wow-delay="0.3s">
-                    <a class="nav-link" id="elementOne-tab" data-toggle="tab" href="#elementOne" role="tab"
-                        aria-controls="element" aria-selected="false">Elements</a>
+               
                 </li>
                 <li class="nav-item wow fadeInLeft" data-wow-delay="0.4s">
                     <a class="nav-link" id="atlas-tab" data-toggle="tab" href="#atlas" role="tab"
-                        aria-controls="code" aria-selected="false">Atlas</a>
+                        aria-controls="code" aria-selected="false">Proprietor</a>
                 </li>
             </ul>
             <div class="tab-content" id="myTabContentthree">
@@ -327,7 +324,7 @@
                                             <button class="btn btn-link" type="button" data-toggle="collapse"
                                                 data-target="#collapseOne" aria-expanded="true"
                                                 aria-controls="collapseOne">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How do I add new users to the system?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -335,9 +332,7 @@
                                     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To add new users to the system, you need administrative privileges. Navigate to the "User Management" section in the dashboard. Click on "Add New User" and fill in the required details such as name, email, class, etc. Random password will be generated automatically. Save the changes, and the user will be added to the system.
                                         </div>
                                     </div>
                                 </div>
@@ -347,7 +342,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwo" aria-expanded="false"
                                                 aria-controls="collapseTwo">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                How can I generate financial reports for the school?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -355,9 +350,7 @@
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To generate financial reports for the school, go to the "Fees & Billing" section in the system. There, you can access various financial reports like income statements, fee collection progress, debtors, expenses, etc. Customize the date range and other filters as needed, then click on "Generate Report" to obtain the financial data.
                                         </div>
                                     </div>
                                 </div>
@@ -367,7 +360,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseThree" aria-expanded="false"
                                                 aria-controls="collapseThree">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
+                                                How do I enroll students in different classes and sections? <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -375,9 +368,7 @@
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To enroll students in different classes and sections, go to the "Student Management" section. Locate the student you want to enroll and click on "Add New Student." From there, you can assign the student to their respective class and section. Save the changes to complete the enrollment process.
                                         </div>
                                     </div>
                                 </div>
@@ -387,7 +378,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseFour" aria-expanded="false"
                                                 aria-controls="collapseFour">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
+                                                How do I manage teacher assignments and subject allocations?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -395,9 +386,7 @@
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To manage teacher assignments and subject allocations, go to the "Users > Staffs" section. Edit the teacher's profile and assign them to specific subjects and classes. Make sure to save the changes, and the teacher will be assigned accordingly.
                                         </div>
                                     </div>
                                 </div>
@@ -407,7 +396,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsefive" aria-expanded="false"
                                                 aria-controls="collapsefive">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
+                                                Can I set up automatic notifications for fee payment reminders? <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -415,9 +404,7 @@
                                     <div id="collapsefive" class="collapse" aria-labelledby="headingfive"
                                         data-parent="#accordionExample">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can set up automatic notifications for fee payment reminders. Go to the "Notification Settings" section and configure the fee payment reminder notification. Specify the frequency and timing of the reminders, and the system will automatically send them to parents or guardians.
                                         </div>
                                     </div>
                                 </div>
@@ -431,7 +418,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseSix" aria-expanded="false"
                                                 aria-controls="collapseSix">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                Is it possible to generate and print student ID cards directly from the system?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -439,9 +426,7 @@
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
                                         data-parent="#accordionExamples">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            es, you can generate and print student ID cards directly from the system. In the "ID Card" section, select the class for which you want to generate ID cards. Click on "Print ID Cards," and the system will generate printable ID cards with student details and photos.
                                         </div>
                                     </div>
                                 </div>
@@ -451,7 +436,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseSeven" aria-expanded="false"
                                                 aria-controls="collapseSeven">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                How can I set up and manage online exams and assessments for students?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -459,9 +444,7 @@
                                     <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
                                         data-parent="#accordionExamples">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To set up and manage online exams and assessments, go to the "CBT" section. Create new exam schedules and questions, assign them to specific classes, and set the exam duration. Students can then access and complete the exams online.
                                         </div>
                                     </div>
                                 </div>
@@ -470,8 +453,8 @@
                                         <h2 class="mb-0">
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseEight" aria-expanded="false"
-                                                aria-controls="collapseEight">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
+                                                aria-controls="collapseEight">How do I handle student transfers between classes or sections?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -479,9 +462,7 @@
                                     <div id="collapseEight" class="collapse" aria-labelledby="headingEight"
                                         data-parent="#accordionExamples">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To handle student transfers between classes or sections, go to the "Student Transfer" section. Choose the student you want to transfer, specify the new class or section, and provide a reason for the transfer. Confirm the transfer, and the student's records will be updated accordingly.
                                         </div>
                                     </div>
                                 </div>
@@ -491,7 +472,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseNine" aria-expanded="false"
                                                 aria-controls="collapseNine">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
+                                                Is there a way to archive and store past academic records and data securely?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -499,9 +480,7 @@
                                     <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
                                         data-parent="#accordionExamples">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can archive and store past academic records and data securely. The system has a data archiving feature that allows you to save historical academic records. You can set access restrictions to ensure the data is securely stored and accessible only to authorized personnel.
                                         </div>
                                     </div>
                                 </div>
@@ -511,7 +490,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTen" aria-expanded="false"
                                                 aria-controls="collapseTen">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
+                                                How do I generate and share progress reports with parents and guardians? <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -519,9 +498,7 @@
                                     <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
                                         data-parent="#accordionExamples">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To generate and share progress reports with parents and guardians, go to the "Academic Records" section. Select the desired report format (e.g., term report card) and the students you want to include. Click on "Generate Reports," and you can either print the reports or send them digitally to parents.
                                         </div>
                                     </div>
                                 </div>
@@ -539,7 +516,7 @@
                                             <button class="btn btn-link" type="button" data-toggle="collapse"
                                                 data-target="#collapseEleven" aria-expanded="true"
                                                 aria-controls="collapseEleven">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How do I record attendance for my students in the system?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -547,9 +524,7 @@
                                     <div id="collapseEleven" class="collapse show" aria-labelledby="headingEleven"
                                         data-parent="#accordionExampledoc">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To record attendance for your students, navigate to the "Attendance" section in the system. Select the date and mark the attendance status for each student (e.g., Present, Absent, Late). Save the changes to update the attendance records.
                                         </div>
                                     </div>
                                 </div>
@@ -559,7 +534,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsetwelve" aria-expanded="false"
                                                 aria-controls="collapsetwelve">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                Is there a way to create and share online assignments with students?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -567,9 +543,7 @@
                                     <div id="collapsetwelve" class="collapse" aria-labelledby="headingtwelve"
                                         data-parent="#accordionExampledoc">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can create and share online assignments with your students. Go to the "Assignments" section and click on "Create New Assignment." Fill in the details, attach any necessary files, and set the due date. Once the assignment is created, share it with your students, and they will be able to access and submit their work online.
                                         </div>
                                     </div>
                                 </div>
@@ -579,7 +553,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsethirteen" aria-expanded="false"
                                                 aria-controls="collapsethirteen">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
+                                                How can I access and update the academic progress of my students?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -587,9 +562,7 @@
                                     <div id="collapsethirteen" class="collapse" aria-labelledby="headingthirteen"
                                         data-parent="#accordionExampledoc">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            You can access and update the academic progress of your students through the "Grades" or "Progress Reports" section. Review individual student records, update their grades, and provide any additional comments or feedback as needed.
                                         </div>
                                     </div>
                                 </div>
@@ -599,7 +572,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsefourteen" aria-expanded="false"
                                                 aria-controls="collapsefourteen">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
+                                                What steps should I follow to schedule and conduct parent-teacher conferences?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -607,9 +581,7 @@
                                     <div id="collapsefourteen" class="collapse" aria-labelledby="headingfourteen"
                                         data-parent="#accordionExampledoc">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            To schedule and conduct parent-teacher conferences, access the "Calendar" or "Events" section in the system. Create a new event for the conference and set the date, time, and location. Send invitations to parents/guardians, and they can confirm their attendance through the system.
                                         </div>
                                     </div>
                                 </div>
@@ -619,7 +591,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsefifteenth" aria-expanded="false"
                                                 aria-controls="collapsefifteenth">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
+                                                Can I track and manage student behavior and disciplinary actions using the system?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -627,9 +600,7 @@
                                     <div id="collapsefifteenth" class="collapse" aria-labelledby="headingfifteenth"
                                         data-parent="#accordionExampledoc">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can track and manage student behavior and disciplinary actions using the system. Navigate to the "Student Behavior" or "Disciplinary Actions" section, where you can log incidents, assign consequences, and keep a record of student behavior for reference and reporting purposes.
                                         </div>
                                     </div>
                                 </div>
@@ -637,13 +608,14 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="accordion doc_faq_info" id="accordionExampledocTwo">
+                                
                                 <div class="card">
                                     <div class="card-header" id="headingsixteenth">
                                         <h2 class="mb-0">
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapsesixteenth" aria-expanded="false"
                                                 aria-controls="collapsesixteenth">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How can I communicate with parents and guardians about their child's progress and performance?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -651,92 +623,11 @@
                                     <div id="collapsesixteenth" class="collapse" aria-labelledby="headingsixteenth"
                                         data-parent="#accordionExampledocTwo">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            You can easily communicate with parents and guardians through the system's integrated messaging feature. Navigate to the "Messages" or "Communication" section, and select the option to compose a new message. Choose the recipients (parents/guardians), type your message, and click "Send." Parents will receive the message through their preferred communication channel (e.g., email, SMS). This way, you can keep parents informed about their child's academic progress, upcoming events, and any other important updates.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingSeventeenth">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseSeventeenth" aria-expanded="false"
-                                                aria-controls="collapseSeventeenth">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseSeventeenth" class="collapse" aria-labelledby="headingSeventeenth"
-                                        data-parent="#accordionExampledocTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingEighteen">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseEighteen" aria-expanded="false"
-                                                aria-controls="collapseEighteen">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseEighteen" class="collapse" aria-labelledby="headingEighteen"
-                                        data-parent="#accordionExampledocTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingNineteen">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseNineteen" aria-expanded="false"
-                                                aria-controls="collapseNineteen">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseNineteen" class="collapse" aria-labelledby="headingNineteen"
-                                        data-parent="#accordionExampledocTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwenty">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwenty" aria-expanded="false"
-                                                aria-controls="collapseTwenty">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwenty" class="collapse" aria-labelledby="headingTwenty"
-                                        data-parent="#accordionExampledocTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
+                        
                             </div>
                         </div>
                     </div>
@@ -745,13 +636,14 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="accordion doc_faq_info" id="accordionExampleforum">
+                                
                                 <div class="card">
                                     <div class="card-header" id="headingTwentyone">
                                         <h2 class="mb-0">
                                             <button class="btn btn-link" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentyone" aria-expanded="true"
                                                 aria-controls="collapseTwentyone">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How can I track my child's attendance record and know if they are attending classes regularly?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -759,9 +651,7 @@
                                     <div id="collapseTwentyone" class="collapse show" aria-labelledby="headingTwentyone"
                                         data-parent="#accordionExampleforum">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            You can easily track your child's attendance record by logging into the parent portal of the school management system. Navigate to the "Attendance" section, where you will find a detailed attendance report for your child. This report will show the number of days attended, absent, and any late arrivals. If you have any concerns or notice any discrepancies, you can communicate with the school administration through the system's messaging feature.
                                         </div>
                                     </div>
                                 </div>
@@ -771,7 +661,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentytwo" aria-expanded="false"
                                                 aria-controls="collapseTwentytwo">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                Is there a way to view my child's academic performance and grades in various subjects?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -779,9 +669,7 @@
                                     <div id="collapseTwentytwo" class="collapse" aria-labelledby="headingTwentytwo"
                                         data-parent="#accordionExampleforum">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can access your child's academic performance and grades through the parent portal. Simply go to the "Grades" or "Progress Reports" section, where you will find a comprehensive overview of your child's grades for each subject. You can view past report cards and monitor their progress throughout the academic year. Additionally, you can communicate with teachers if you have any questions or need further information.
                                         </div>
                                     </div>
                                 </div>
@@ -791,7 +679,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentythree" aria-expanded="false"
                                                 aria-controls="collapseTwentythree">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
+                                                How can I stay updated on school events, important dates, and announcements? <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -799,9 +687,7 @@
                                     <div id="collapseTwentythree" class="collapse" aria-labelledby="headingTwentythree"
                                         data-parent="#accordionExampleforum">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            The school management system provides a calendar feature where all school events, important dates, and announcements are listed. You can access this calendar through the parent portal to stay informed about parent-teacher meetings, holidays, exams, and other school-related activities. Additionally, you will receive automatic notifications and reminders for upcoming events via email or SMS.
                                         </div>
                                     </div>
                                 </div>
@@ -811,7 +697,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentyfour" aria-expanded="false"
                                                 aria-controls="collapseTwentyfour">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
+                                                Can I make online payments for school fees and other expenses?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -819,43 +706,25 @@
                                     <div id="collapseTwentyfour" class="collapse" aria-labelledby="headingTwentyfour"
                                         data-parent="#accordionExampleforum">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, the school management system offers a secure online payment gateway where you can conveniently pay school fees and other expenses. Log in to the parent portal, navigate to the "Payments" or "Fees" section, and follow the instructions to make online payments. You can choose from various payment options and receive a receipt for each transaction.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyfive">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyfive" aria-expanded="false"
-                                                aria-controls="collapseTwentyfive">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyfive" class="collapse" aria-labelledby="headingTwentyfive"
-                                        data-parent="#accordionExampleforum">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
+                              
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="accordion doc_faq_info" id="accordionExampleforumTwo">
+                              
                                 <div class="card">
                                     <div class="card-header" id="headingTwentysix">
                                         <h2 class="mb-0">
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentysix" aria-expanded="false"
                                                 aria-controls="collapseTwentysix">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How can I communicate with my child's teachers and school administration?
+
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -863,9 +732,7 @@
                                     <div id="collapseTwentysix" class="collapse" aria-labelledby="headingTwentysix"
                                         data-parent="#accordionExampleforumTwo">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            You can easily communicate with your child's teachers and school administration through the messaging feature in the parent portal. Simply compose a message, select the recipient (teacher or school staff), type your message, and click "Send." This communication channel allows you to discuss your child's progress, share concerns, and stay informed about their academic journey.
                                         </div>
                                     </div>
                                 </div>
@@ -875,7 +742,7 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseTwentyseven" aria-expanded="false"
                                                 aria-controls="collapseTwentyseven">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                Is there a way to access and download my child's academic records and progress reports?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -883,300 +750,28 @@
                                     <div id="collapseTwentyseven" class="collapse" aria-labelledby="headingTwentyseven"
                                         data-parent="#accordionExampleforumTwo">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can access and download your child's academic records and progress reports directly from the parent portal. Navigate to the "Reports" or "Academic Records" section, where you will find downloadable PDF files of progress reports, report cards, and other academic documents. You can save and print these records for your reference or future use.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyeight">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyeight" aria-expanded="false"
-                                                aria-controls="collapseTwentyeight">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyeight" class="collapse" aria-labelledby="headingTwentyeight"
-                                        data-parent="#accordionExampleforumTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentynine">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentynine" aria-expanded="false"
-                                                aria-controls="collapseTwentynine">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentynine" class="collapse" aria-labelledby="headingNine"
-                                        data-parent="#accordionExampleforumTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyten">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyten" aria-expanded="false"
-                                                aria-controls="collapseTwentyten">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyten" class="collapse" aria-labelledby="headingTwentyten"
-                                        data-parent="#accordionExampleforumTwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
+                          
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane faq_tab_pane fade" id="elementOne" role="tabpanel"
-                    aria-labelledby="elementOne-tab">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="accordion doc_faq_info" id="accordionExampleelement">
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentye">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentye" aria-expanded="true"
-                                                aria-controls="collapseTwentye">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentye" class="collapse show" aria-labelledby="headingTwentye"
-                                        data-parent="#accordionExampleelement">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyt">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyt" aria-expanded="false"
-                                                aria-controls="collapseTwentyt">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyt" class="collapse" aria-labelledby="headingTwentyt"
-                                        data-parent="#accordionExampleelement">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyth">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyth" aria-expanded="false"
-                                                aria-controls="collapseTwentyth">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyth" class="collapse" aria-labelledby="headingTwentyth"
-                                        data-parent="#accordionExampleelement">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyf">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyf" aria-expanded="false"
-                                                aria-controls="collapseTwentyf">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyf" class="collapse" aria-labelledby="headingTwentyf"
-                                        data-parent="#accordionExampleelement">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingTwentyfi">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseTwentyfi" aria-expanded="false"
-                                                aria-controls="collapseTwentyfi">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseTwentyfi" class="collapse" aria-labelledby="headingTwentyfi"
-                                        data-parent="#accordionExampleelement">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6">
-                            <div class="accordion doc_faq_info" id="accordionExampleelements">
-                                <div class="card">
-                                    <div class="card-header" id="headingeleOne">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseeleOne" aria-expanded="false"
-                                                aria-controls="collapseeleOne">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseeleOne" class="collapse" aria-labelledby="headingeleOne"
-                                        data-parent="#accordionExampleelements">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingeleTwo">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseeleTwo" aria-expanded="false"
-                                                aria-controls="collapseeleTwo">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseeleTwo" class="collapse" aria-labelledby="headingeleTwo"
-                                        data-parent="#accordionExampleelements">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingeleThree">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseeleThree" aria-expanded="false"
-                                                aria-controls="collapseeleThree">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseeleThree" class="collapse" aria-labelledby="headingeleThree"
-                                        data-parent="#accordionExampleelements">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingeleFour">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseeleFour" aria-expanded="false"
-                                                aria-controls="collapseeleFour">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseeleFour" class="collapse" aria-labelledby="headingeleFour"
-                                        data-parent="#accordionExampleelements">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingeleFive">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                                data-target="#collapseeleFive" aria-expanded="false"
-                                                aria-controls="collapseeleFive">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseeleFive" class="collapse" aria-labelledby="headingeleFive"
-                                        data-parent="#accordionExampleelements">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+              
                 <div class="tab-pane faq_tab_pane fade" id="atlas" role="tabpanel" aria-labelledby="atlas-tab">
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="accordion doc_faq_info" id="accordionExampleatlas">
+                               
                                 <div class="card">
                                     <div class="card-header" id="headingAtlasone">
                                         <h2 class="mb-0">
                                             <button class="btn btn-link" type="button" data-toggle="collapse"
                                                 data-target="#collapseAtlasone" aria-expanded="true"
                                                 aria-controls="collapseAtlasone">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                How can I access financial reports and track the school's financial performance?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -1184,9 +779,7 @@
                                     <div id="collapseAtlasone" class="collapse show" aria-labelledby="headingAtlasone"
                                         data-parent="#accordionExampleatlas">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            As a proprietor, you have access to the financial reports and analytics through the IntelPS. Simply log in to your admin dashboard and navigate to the "Financial Reports" section. Here, you will find detailed reports on income, expenses, cash flow, and other financial metrics, helping you track the school's financial performance and make informed decisions.
                                         </div>
                                     </div>
                                 </div>
@@ -1196,7 +789,8 @@
                                             <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                                                 data-target="#collapseAtlastwo" aria-expanded="false"
                                                 aria-controls="collapseAtlastwo">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                Is it possible to view the school's overall attendance and student enrollment data?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -1204,9 +798,7 @@
                                     <div id="collapseAtlastwo" class="collapse" aria-labelledby="headingAtlastwo"
                                         data-parent="#accordionExampleatlas">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, you can easily view the school's overall attendance and student enrollment data from the admin dashboard. The "Attendance" and "Enrollment" sections provide comprehensive data on student attendance rates, enrollment statistics, and trends. This information allows you to assess the school's performance and plan for future growth.
                                         </div>
                                     </div>
                                 </div>
@@ -1216,7 +808,8 @@
                                             <button class="btn btn-link collapsed" type="button"
                                                 data-toggle="collapse" data-target="#collapseAtlasthree"
                                                 aria-expanded="false" aria-controls="collapseAtlasthree">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
+                                                How can I monitor teacher assignments and ensure optimal subject allocations?
+                                                <i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -1224,63 +817,23 @@
                                     <div id="collapseAtlasthree" class="collapse" aria-labelledby="headingAtlasthree"
                                         data-parent="#accordionExampleatlas">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            You can manage teacher assignments and subject allocations from the admin dashboard. In the "Teachers" section, you have the option to assign teachers to specific classes and subjects. By efficiently managing teacher resources, you can ensure that the right teachers are allocated to their respective subjects, enhancing the quality of education.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingAtlasfour">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button"
-                                                data-toggle="collapse" data-target="#collapseAtlasfour"
-                                                aria-expanded="false" aria-controls="collapseAtlasfour">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseAtlasfour" class="collapse" aria-labelledby="headingAtlasfour"
-                                        data-parent="#accordionExampleatlas">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingAtlasfive">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button"
-                                                data-toggle="collapse" data-target="#collapseAtlasfive"
-                                                aria-expanded="false" aria-controls="collapseAtlasfive">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseAtlasfive" class="collapse" aria-labelledby="headingAtlasfive"
-                                        data-parent="#accordionExampleatlas">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
+                          
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="accordion doc_faq_info" id="accordionExampleatlastwo">
+                                
                                 <div class="card">
                                     <div class="card-header" id="headingAtlassix">
                                         <h2 class="mb-0">
                                             <button class="btn btn-link collapsed" type="button"
                                                 data-toggle="collapse" data-target="#collapseAtlassix"
                                                 aria-expanded="false" aria-controls="collapseAtlassix">
-                                                How can I deploy Documentation Landing?<i class="icon_plus"></i><i
+                                                Is there a feature to automate fee payment reminders and notifications for parents?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -1288,9 +841,7 @@
                                     <div id="collapseAtlassix" class="collapse" aria-labelledby="headingAtlassix"
                                         data-parent="#accordionExampleatlastwo">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Yes, the IntelPS offers an automated notification system that sends fee payment reminders to parents. You can customize the notification settings and schedule reminders for fee due dates. This feature helps streamline the fee collection process and reduces the number of overdue payments.
                                         </div>
                                     </div>
                                 </div>
@@ -1300,7 +851,7 @@
                                             <button class="btn btn-link collapsed" type="button"
                                                 data-toggle="collapse" data-target="#collapseAtlasseven"
                                                 aria-expanded="false" aria-controls="collapseAtlasseven">
-                                                How can I subscribe to the PETSc mailing lists?<i class="icon_plus"></i><i
+                                                Can I generate and print student ID cards directly from the system?<i class="icon_plus"></i><i
                                                     class="icon_minus-06"></i>
                                             </button>
                                         </h2>
@@ -1308,72 +859,11 @@
                                     <div id="collapseAtlasseven" class="collapse" aria-labelledby="headingAtlasseven"
                                         data-parent="#accordionExampleatlastwo">
                                         <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
+                                            Absolutely! With the IntelPS, you can easily generate and print student ID cards. Go to the "Student ID Cards" section in the admin dashboard, upload the school logo, and customize the design. Once the design is finalized, you can print ID cards for all students, ensuring a professional and organized identification system.
                                         </div>
                                     </div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingAtlaseight">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button"
-                                                data-toggle="collapse" data-target="#collapseAtlaseight"
-                                                aria-expanded="false" aria-controls="collapseAtlaseight">
-                                                Can I run PETSc with extended precision? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseAtlaseight" class="collapse" aria-labelledby="headingAtlaseight"
-                                        data-parent="#accordionExampleatlastwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingAtlasnine">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button"
-                                                data-toggle="collapse" data-target="#collapseAtlasnine"
-                                                aria-expanded="false" aria-controls="collapseAtlasnine">
-                                                What kind of license is PETSc released under?<i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseAtlasnine" class="collapse" aria-labelledby="headingAtlasnine"
-                                        data-parent="#accordionExampleatlastwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="card">
-                                    <div class="card-header" id="headingAtlasten">
-                                        <h2 class="mb-0">
-                                            <button class="btn btn-link collapsed" type="button"
-                                                data-toggle="collapse" data-target="#collapseAtlasten"
-                                                aria-expanded="false" aria-controls="collapseAtlasten">
-                                                Is there a warranty on my item? <i class="icon_plus"></i><i
-                                                    class="icon_minus-06"></i>
-                                            </button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseAtlasten" class="collapse" aria-labelledby="headingAtlasten"
-                                        data-parent="#accordionExampleatlastwo">
-                                        <div class="card-body">
-                                            Skive off he lost his bottle the little rotter absolutely bladdered in my flat
-                                            William no biggie, gormless me old mucker such a fibber David bum bag so I said
-                                            cack.!
-                                        </div>
-                                    </div>
-                                </div>
+                            
                             </div>
                         </div>
                     </div>
@@ -1389,11 +879,12 @@
                 <div class="col-lg-9 col-sm-8">
                     <div class="action_text">
                         <h2>Can't find an answer?</h2>
-                        <p>Head over to our Telegram channel</p>
+                        <p>Head over to our WhatsApp channel</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-4">
-                    <a href="#" class="action_btn">Telegram Channel <i class="arrow_right"></i></a>
+                    <a href="https://wa.me/2348033174228?text=Hi%2C%20I'm%20interested%20in%20your%20school.%20Please%20provide%20your%20name%20and%20school.%20Thanks!"
+                    class="action_btn">WhatsApp Channel <i class="arrow_right"></i></a>
                 </div>
             </div>
         </div>

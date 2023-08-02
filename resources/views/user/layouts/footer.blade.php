@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
                     <div class="f_widget subscribe_widget">
-                        {{-- <a href="index.html" class="f_logo"><img src="/theme/img/logo.png" alt=""></a> --}}
+                        <a href="{{ route('home') }}" class="f_logo"><img src="/logos/v1.png" width="150" alt="logo"></a>
                         <h4 class="c_head">Subscribe to our newsletter</h4>
                         <form action="#" class="footer_subscribe_form">
                             <input type="email" placeholder="Email" class="form-control">

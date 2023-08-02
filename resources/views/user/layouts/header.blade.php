@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg menu_one" id="sticky">
     <div class="container">
         <a class="navbar-brand sticky_logo" href="{{ route('home') }}">
-            {{-- <img src="/theme/img/logo-w.png" srcset="/theme/img/logo-w2x.png 2x" alt="logo">
-            <img src="/theme/img/logo.png" srcset="/theme/img/logo-2x.png 2x" alt="logo"> --}}
+            <img src="/logos/v4.png" srcset="/logos/v4.png 2x" width="150" alt="logo">
+            <img src="/logos/v1.png" srcset="/logos/v1.png 2x" width="150" alt="logo">
         </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="menu_toggle">
